@@ -1,0 +1,12 @@
+C:\Users\Anamika\source\repos\CommonFunctionns\CommonFunctionns\bin\Debug\net5.0\CommonFunctionns.deps.json
+C:\Users\Anamika\source\repos\CommonFunctionns\CommonFunctionns\bin\Debug\net5.0\CommonFunctionns.dll
+C:\Users\Anamika\source\repos\CommonFunctionns\CommonFunctionns\bin\Debug\net5.0\ref\CommonFunctionns.dll
+C:\Users\Anamika\source\repos\CommonFunctionns\CommonFunctionns\bin\Debug\net5.0\CommonFunctionns.pdb
+C:\Users\Anamika\source\repos\CommonFunctionns\CommonFunctionns\obj\Debug\net5.0\CommonFunctionns.csproj.AssemblyReference.cache
+C:\Users\Anamika\source\repos\CommonFunctionns\CommonFunctionns\obj\Debug\net5.0\CommonFunctionns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anamika\source\repos\CommonFunctionns\CommonFunctionns\obj\Debug\net5.0\CommonFunctionns.AssemblyInfoInputs.cache
+C:\Users\Anamika\source\repos\CommonFunctionns\CommonFunctionns\obj\Debug\net5.0\CommonFunctionns.AssemblyInfo.cs
+C:\Users\Anamika\source\repos\CommonFunctionns\CommonFunctionns\obj\Debug\net5.0\CommonFunctionns.csproj.CoreCompileInputs.cache
+C:\Users\Anamika\source\repos\CommonFunctionns\CommonFunctionns\obj\Debug\net5.0\CommonFunctionns.dll
+C:\Users\Anamika\source\repos\CommonFunctionns\CommonFunctionns\obj\Debug\net5.0\ref\CommonFunctionns.dll
+C:\Users\Anamika\source\repos\CommonFunctionns\CommonFunctionns\obj\Debug\net5.0\CommonFunctionns.pdb
